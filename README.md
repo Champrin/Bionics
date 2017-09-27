@@ -1,8 +1,8 @@
-#Bionics------仿生
+# Bionics------仿生
 
     原RealLife系列合集,和新增功能
 
-##功能介绍
+## 功能介绍
     BedLeaveXT------玩家起床几率眩晕和虚弱 
         当玩家起床时,几率获得眩晕和虚弱效果
     BedLeaveBX------玩家睡觉补血
@@ -46,16 +46,16 @@
         当玩家切换潜行时，玩家放屁,几率会拉屎
         当玩家吃自己拉的屎时（物品可可豆,吃=点空气),获得反胃2级 60秒 药水效果
         
-##配置文件介绍 （true是开启,false是关闭）
+## 配置文件介绍 （true是开启,false是关闭）
 
-###Worlds.yml
+### Worlds.yml
 
     请在这个配置文件按
     - world
     - tie
     如上添加开启世界
     
-###config.yml
+### config.yml
 
     "LuCactus"=>true, //仙人掌掉落水瓶
     "WaterBottle"=>"1:10", //水瓶掉落数
@@ -78,7 +78,7 @@
     "BedLeaveXT"=>true,//起床几率血糖过低
     "Tip"=>true,//提示信息
             
-###Message.yml 这个配置文件是自定义提示信息
+### Message.yml 这个配置文件是自定义提示信息
 
     LuLeaves: §6手撸树叶掉落
     CutGlass: §6刀撸玻璃掉落
@@ -205,7 +205,7 @@
       5: 40
 
     
-##指令介绍
+## 指令介绍
 
     /ill 查看药物列表
     /rlset help             查看帮助
